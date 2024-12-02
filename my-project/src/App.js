@@ -1,5 +1,5 @@
 
-import './App.css';
+import './page.css';
 
 const apiBaseUrl = "http://localhost:8080/api/products";
 
